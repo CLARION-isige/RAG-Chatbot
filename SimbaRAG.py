@@ -10,7 +10,7 @@ import os
 # import easyllm 
 from mistralai import Mistral
 
-api_key = "h8K9RyBBPsGtX2pptiYNiA5dRSltZRT4"
+api_key = "%% insert mistralai api key %%"
 client = Mistral(api_key=api_key)
 # Set the title for the Streamlit app
 st.title("RAG enhanced Chatbot")

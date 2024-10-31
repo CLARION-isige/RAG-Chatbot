@@ -1,0 +1,12 @@
+boto3 
+pypdf
+openai
+easyllm 
+tiktoken
+streamlit
+faiss-cpu
+mistralai
+langchain
+langchain_aws
+huggingface_hub
+langchain_community

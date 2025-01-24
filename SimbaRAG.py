@@ -1,5 +1,3 @@
-!# Import necessary libraries
-# import databutton as db
 import streamlit as st
 from openai import OpenAI
 from pdf_actions import get_index_for_pdf
